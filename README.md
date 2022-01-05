@@ -15,6 +15,8 @@ e copiar esse código no lugar do código existente. É necessário também pree
 que deve ser feito após criar uma API REST do Power BI no ADD e adicionar os segredos na Azure KeyVaultalém de dar as devidas permissões para o DF no PBI . Para um passo-a-passo detalhado, você pode seguir o seguinte tutorial: https://datasavvy.me/2020/07/09/refreshing-a-power-bi-dataset-in-azure-data-factory/ , de onde se originou o código.
 
 
+=================================================================================================================
+
 
 #### English
 The file .json can be added to a Azure Data Factory pipeline and used as a template to refresh Power BI Dataset.
