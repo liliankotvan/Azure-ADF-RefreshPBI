@@ -26,4 +26,4 @@ and overwrite the existing code. It is necessary fill in the pipeline parameters
 
 ![image](https://user-images.githubusercontent.com/45773133/123711069-372df080-d846-11eb-8c68-5ca4cbe28e7a.png)
 
-which should be done after creating your PBI API REST, add the secrets into an Azure KeyVault and grant the service principal to access PBI workspace contaiing the dataset. For a detailed step-by-step, you can follow the tutorial: https://datasavvy.me/2020/07/09/refreshing-a-power-bi-dataset-in-azure-data-factory/ , where did the code originate.
+which should be done after creating your PBI API REST, add the secrets into an Azure KeyVault and grant the service principal to access PBI workspace contaiing the dataset. For a detailed step-by-step, you can follow the tutorial: https://datasavvy.me/2020/07/09/refreshing-a-power-bi-dataset-in-azure-data-factory/ , where this code was originated.
